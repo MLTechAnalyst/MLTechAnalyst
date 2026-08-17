@@ -11,7 +11,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/mariah-langston-5b298
 ---
 
 ### 🛠️ GitHub Stats
-![Mariah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLTechAnalyst&show_icons=true)
+[![Mariah's GitHub stats](https://github-stats-extended.vercel.app/api?username=MLTechAnalyst)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **MLTechAnalyst/MLTechAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
