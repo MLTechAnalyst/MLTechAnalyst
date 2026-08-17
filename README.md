@@ -11,7 +11,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/mariah-langston-5b298
 ---
 
 ### 🛠️ GitHub Stats
-[Mariah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLTechAnalyst&show_icons=true&theme=tokyonight)
+[Mariah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLTechAnalyst)
 
 
 <!--
