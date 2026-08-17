@@ -6,7 +6,7 @@ I am currently pursuing my BAS in Data Analytics and Programming, where I am dev
 ---
 
 ### 📬 Contact
-You can reach me on [LinkedIn](https://www.linkedin.com/in/mariah-langston-5b2985282/) or check out my code on [GitHub](https://github.com/MLTechAnalyst)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/mariah-langston-5b2985282/) or check out my code on [GitHub](https://github.com/MLTechAnalyst).
 <!--
 **MLTechAnalyst/MLTechAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
