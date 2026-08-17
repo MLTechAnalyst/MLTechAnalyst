@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
+
+### About Me
+I am currently pursuing my BAS in Data Analytics and Programming, where I am developing strong skills in data analytics, object-oriented programming, and business decision-making. Through this program, I’m learning how to work with large data sets, using industry tools and programming languages to model, analyze, and visualize data for practical use. I’m passionate about applying these skills to real-world problems and preparing myself for advanced opportunities in data analytics, programming, or data science after graduation.
 
 <!--
 **MLTechAnalyst/MLTechAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
